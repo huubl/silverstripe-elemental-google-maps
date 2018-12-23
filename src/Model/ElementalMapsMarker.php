@@ -6,7 +6,7 @@ use Sheadawson\Linkable\Forms\LinkField;
 use Sheadawson\Linkable\Models\Link;
 use SilverStripe\Forms\TextField;
 use SilverStripe\ORM\DataObject;
-use Huubl\Addressfield\Forms\GooglePlacesField;
+use TheWebmen\Addressfield\Forms\GooglePlacesField;
 
 class ElementalMapsMarker extends DataObject
 {
