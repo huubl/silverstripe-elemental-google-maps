@@ -1,5 +1,5 @@
 {
-    "name": "thewebmen/silverstripe-elemental-maps",
+    "name": "huubl/silverstripe-elemental-maps",
     "description": "Silverstripe elemental google maps element",
     "type": "silverstripe-vendormodule",
     "keywords": [
@@ -10,15 +10,15 @@
     ],
     "license": "BSD-3-Clause",
     "authors": [{
-        "name": "Michel van der Steege",
-        "email": "michel@thewebmen.com"
+        "name": "Huubl",
+        "email": "info@studiolunter.nl"
     }],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "silverstripe/cms": "^4.0@dev",
         "silverstripe/vendor-plugin": "^1.0",
-        "thewebmen/silverstripe-addressfield": "^1.0",
+        "huubl/silverstripe-addressfield": "^1.0",
         "sheadawson/silverstripe-linkable": "^2.0"
     },
     "require-dev": {
@@ -33,7 +33,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TheWebmen\\ElementalMaps\\": "src/"
+            "huubl\\ElementalMaps\\": "src/"
         }
     }
 }

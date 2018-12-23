@@ -1,12 +1,12 @@
 <?php
 
-namespace TheWebmen\ElementalMaps\Model;
+namespace Huubl\ElementalMaps\Model;
 
 use Sheadawson\Linkable\Forms\LinkField;
 use Sheadawson\Linkable\Models\Link;
 use SilverStripe\Forms\TextField;
 use SilverStripe\ORM\DataObject;
-use TheWebmen\Addressfield\Forms\GooglePlacesField;
+use Huubl\Addressfield\Forms\GooglePlacesField;
 
 class ElementalMapsMarker extends DataObject
 {

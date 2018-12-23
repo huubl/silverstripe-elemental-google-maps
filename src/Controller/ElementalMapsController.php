@@ -1,11 +1,11 @@
 <?php
 
-namespace TheWebmen\ElementalMaps\Controller;
+namespace Huubl\ElementalMaps\Controller;
 
 use DNADesign\Elemental\Controllers\ElementController;
 use SilverStripe\Core\Config\Config;
 use SilverStripe\View\Requirements;
-use TheWebmen\ElementalMaps\Model\ElementalMaps;
+use Huubl\ElementalMaps\Model\ElementalMaps;
 
 class ElementalMapsController extends ElementController {
 

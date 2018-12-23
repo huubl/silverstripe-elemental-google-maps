@@ -1,6 +1,6 @@
 <?php
 
-namespace TheWebmen\ElementalMaps\Model;
+namespace Huubl\ElementalMaps\Model;
 
 use DNADesign\Elemental\Models\BaseElement;
 use SilverStripe\Forms\DropdownField;
@@ -8,8 +8,8 @@ use SilverStripe\Forms\GridField\GridFieldConfig_RecordEditor;
 use SilverStripe\Forms\HeaderField;
 use SilverStripe\Forms\NumericField;
 use SilverStripe\Forms\TextField;
-use TheWebmen\Addressfield\Forms\GooglePlacesField;
-use TheWebmen\ElementalMaps\Controller\ElementalMapsController;
+use Huubl\Addressfield\Forms\GooglePlacesField;
+use Huubl\ElementalMaps\Controller\ElementalMapsController;
 
 class ElementalMaps extends BaseElement
 {
