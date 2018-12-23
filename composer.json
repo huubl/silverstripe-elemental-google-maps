@@ -33,7 +33,7 @@
     },
     "autoload": {
         "psr-4": {
-            "huubl\\ElementalMaps\\": "src/"
+            "Huubl\\ElementalMaps\\": "src/"
         }
     }
 }
