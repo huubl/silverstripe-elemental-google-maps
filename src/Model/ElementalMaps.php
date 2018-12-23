@@ -8,7 +8,7 @@ use SilverStripe\Forms\GridField\GridFieldConfig_RecordEditor;
 use SilverStripe\Forms\HeaderField;
 use SilverStripe\Forms\NumericField;
 use SilverStripe\Forms\TextField;
-use Huubl\Addressfield\Forms\GooglePlacesField;
+use TheWebmen\Addressfield\Forms\GooglePlacesField;
 use Huubl\ElementalMaps\Controller\ElementalMapsController;
 
 class ElementalMaps extends BaseElement
