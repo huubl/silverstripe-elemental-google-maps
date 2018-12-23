@@ -1,5 +1,5 @@
 {
-    "name": "huubl/silverstripe-elemental-maps",
+    "name": "huubl/silverstripe-elemental-google-maps",
     "description": "Silverstripe elemental google maps element",
     "type": "silverstripe-vendormodule",
     "keywords": [
