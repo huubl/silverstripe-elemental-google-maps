@@ -18,7 +18,7 @@
     "require": {
         "silverstripe/cms": "^4.0@dev",
         "silverstripe/vendor-plugin": "^1.0",
-        "huubl/silverstripe-addressfield": "^1.0",
+        "thewebmen/silverstripe-addressfield": "^1.0",
         "sheadawson/silverstripe-linkable": "^2.0"
     },
     "require-dev": {
