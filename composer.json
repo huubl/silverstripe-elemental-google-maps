@@ -26,7 +26,7 @@
         "squizlabs/php_codesniffer": "^3.0"
     },
     "extra": {
-        "installer-name": "silverstripe-elemental-maps",
+        "installer-name": "silverstripe-elemental-google-maps",
         "branch-alias": {
             "dev-master": "2.x-dev"
         }
