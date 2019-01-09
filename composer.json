@@ -28,7 +28,7 @@
     "extra": {
         "installer-name": "silverstripe-elemental-google-maps",
         "branch-alias": {
-            "dev-master": "2.x-dev"
+            "dev-master": "1.x-dev"
         }
     },
     "autoload": {
