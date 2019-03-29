@@ -15,7 +15,7 @@ class ElementalMaps extends BaseElement
 {
     private static $maps_api_key = false;
 
-    private static $icon = 'font-icon-block-globe-1';
+    private static $icon = 'font-icon-globe-1';
 
     private static $table_name = 'ElementalMaps';
 
