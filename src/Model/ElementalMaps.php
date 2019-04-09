@@ -13,6 +13,8 @@ use Huubl\ElementalMaps\Controller\ElementalMapsController;
 
 class ElementalMaps extends BaseElement
 {
+    private static $inline_editable = false;
+
     private static $maps_api_key = false;
 
     private static $icon = 'font-icon-globe-1';
